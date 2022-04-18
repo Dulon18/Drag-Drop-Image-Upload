@@ -1,4 +1,4 @@
-<p align="center"><img src="img/drag-drop.png" raw=true width="300"></a></p>
+<p align="center"><img src="/repository/public/img/drag-drop.png" width="300"></a></p>
 
 <p align="center"><img src="img/drag2.png" raw=true width="300"></a></p>
 
